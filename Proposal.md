@@ -1,4 +1,4 @@
-# Dembidollo University R Training Proposal: [Data Carpentry Workshop](https://mesfind.github.io/2019-12-06-DC-DDU/)
+# Dembi Dollo University R Training Proposal: [Data Carpentry Workshop](https://mesfind.github.io/2019-12-06-DC-DDU/)
 
 [Mesfin Diro](http://mesfind.github.io/about/)[^1],
 [yared Abera](https://github.com/yaredabera),
